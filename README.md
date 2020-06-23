@@ -1,1 +1,1 @@
-Carsale is a System of Car Sale like ikman.lk
+Carsale is a System like  ikman.lk
