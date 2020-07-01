@@ -23,6 +23,7 @@ public class CarAddAction extends HttpServlet {
 		String milage=request.getParameter("milage");
 		String year=request.getParameter("year");
 		String price=request.getParameter("price");
+		/**/
 		
 	}
 
