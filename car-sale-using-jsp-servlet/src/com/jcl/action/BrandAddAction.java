@@ -24,7 +24,7 @@ public class BrandAddAction extends HttpServlet {
 			PreparedStatement ps=((java.sql.Connection) con).prepareStatement(query);
 			ps.setString(1,name);
 			ps.executeUpdate();
-		    out.println("Data is Stored ... Thank you !");  
+		    out.println("Data is Stored ......... Thank you !");  
 			
 		} catch (Exception e) {
 			e.printStackTrace();
